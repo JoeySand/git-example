@@ -1,2 +1,2 @@
 # git-example
-This is an example git file change.
+This is an example git branch change.
